@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b474d51-2c60-4ad4-b260-c8489dad9ef4" name="Default" comment="added sum cool stuff">
+    <list default="true" id="7b474d51-2c60-4ad4-b260-c8489dad9ef4" name="Default" comment="">
       <change beforePath="" afterPath="$PROJECT_DIR$/static/images/download.png" />
       <change beforePath="" afterPath="$PROJECT_DIR$/static/images/history_extended.png" />
       <change beforePath="" afterPath="$PROJECT_DIR$/static/images/read.png" />
@@ -320,7 +320,7 @@
       <option name="presentableId" value="Default" />
       <updated>1527362224177</updated>
       <workItem from="1527362226168" duration="5275000" />
-      <workItem from="1527489244648" duration="3238000" />
+      <workItem from="1527489244648" duration="3251000" />
     </task>
     <task id="LOCAL-00001" summary="added sum cool stuff">
       <created>1527371855500</created>
@@ -329,11 +329,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527371855500</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1527495641007</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1527495641007</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8513000" />
+    <option name="totallyTimeSpent" value="8526000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="22" width="1639" height="1028" extended-state="0" />
@@ -365,7 +372,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added sum cool stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="added sum cool stuff" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
